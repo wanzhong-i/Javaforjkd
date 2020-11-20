@@ -2,6 +2,8 @@ package com.company;
 
 /*查询emp表中的数据*/
 
+import com.company.domain.Emp;
+
 import java.sql.*;
 
 public class JDBCDemo5 {

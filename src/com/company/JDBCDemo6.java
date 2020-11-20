@@ -2,6 +2,7 @@ package com.company;
 
 
 
+import com.company.domain.Emp;
 import com.company.utils.JDBCUtils;
 
 import java.sql.*;
